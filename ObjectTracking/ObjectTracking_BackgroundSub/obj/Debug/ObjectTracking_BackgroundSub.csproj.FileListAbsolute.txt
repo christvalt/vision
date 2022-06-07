@@ -1,0 +1,11 @@
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\bin\Debug\ObjectTracking_BackgroundSub.exe.config
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\bin\Debug\ObjectTracking_BackgroundSub.exe
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\bin\Debug\ObjectTracking_BackgroundSub.pdb
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Debug\ObjectTracking_BackgroundSub.csprojAssemblyReference.cache
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Debug\ObjectTracking_BackgroundSub.MainForm.resources
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Debug\ObjectTracking_BackgroundSub.Properties.Resources.resources
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Debug\ObjectTracking_BackgroundSub.csproj.GenerateResource.cache
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Debug\ObjectTracking_BackgroundSub.csproj.CoreCompileInputs.cache
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Debug\ObjectTracking_BackgroundSub.csproj.CopyComplete
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Debug\ObjectTracking_BackgroundSub.exe
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Debug\ObjectTracking_BackgroundSub.pdb

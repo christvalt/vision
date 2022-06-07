@@ -1,0 +1,33 @@
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.Properties.Resources.resources
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.csproj.GenerateResource.cache
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.csproj.CoreCompileInputs.cache
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\bin\Release\ObjectTracking_BackgroundSub.exe.config
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\bin\Release\ObjectTracking_BackgroundSub.exe
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\bin\Release\ObjectTracking_BackgroundSub.pdb
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.MainForm.resources
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.csproj.CopyComplete
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.exe
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.pdb
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.csprojAssemblyReference.cache
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\bin\Release\ObjectTracking_BackgroundSub.exe.config
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\bin\Release\ObjectTracking_BackgroundSub.exe
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\bin\Release\ObjectTracking_BackgroundSub.pdb
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.csprojAssemblyReference.cache
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.MainForm.resources
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.Properties.Resources.resources
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.csproj.GenerateResource.cache
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.csproj.CoreCompileInputs.cache
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.csproj.CopyComplete
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.exe
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.pdb
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\bin\Release\ObjectTracking_BackgroundSub.exe.config
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\bin\Release\ObjectTracking_BackgroundSub.exe
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\bin\Release\ObjectTracking_BackgroundSub.pdb
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.csprojAssemblyReference.cache
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.MainForm.resources
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.Properties.Resources.resources
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.csproj.GenerateResource.cache
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.csproj.CoreCompileInputs.cache
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.csproj.CopyComplete
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.exe
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_BackgroundSub\obj\Release\ObjectTracking_BackgroundSub.pdb

@@ -1,0 +1,33 @@
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\bin\Release\ObjectTracking_MeanShift.exe.config
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\bin\Release\ObjectTracking_MeanShift.exe
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\bin\Release\ObjectTracking_MeanShift.pdb
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.MainForm.resources
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.Properties.Resources.resources
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.csproj.GenerateResource.cache
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.csproj.CoreCompileInputs.cache
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.csproj.CopyComplete
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.exe
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.pdb
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.csprojAssemblyReference.cache
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\bin\Release\ObjectTracking_MeanShift.exe.config
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\bin\Release\ObjectTracking_MeanShift.exe
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\bin\Release\ObjectTracking_MeanShift.pdb
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.csprojAssemblyReference.cache
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.MainForm.resources
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.Properties.Resources.resources
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.csproj.GenerateResource.cache
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.csproj.CoreCompileInputs.cache
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.csproj.CopyComplete
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.exe
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.pdb
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\bin\Release\ObjectTracking_MeanShift.exe.config
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\bin\Release\ObjectTracking_MeanShift.exe
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\bin\Release\ObjectTracking_MeanShift.pdb
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.csprojAssemblyReference.cache
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.MainForm.resources
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.Properties.Resources.resources
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.csproj.GenerateResource.cache
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.csproj.CoreCompileInputs.cache
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.csproj.CopyComplete
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.exe
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\ObjectTracking_MeanShift\obj\Release\ObjectTracking_MeanShift.pdb

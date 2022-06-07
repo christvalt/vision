@@ -1,0 +1,15 @@
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\bin\Release\Utilities.dll
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\bin\Release\Utilities.pdb
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\Utilities\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\Utilities\obj\Release\Utilities.dll
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\Utilities\obj\Release\Utilities.pdb
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\bin\Release\Utilities.dll
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\bin\Release\Utilities.pdb
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\Utilities\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\Utilities\obj\Release\Utilities.dll
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\Utilities\obj\Release\Utilities.pdb
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\bin\Release\Utilities.dll
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\bin\Release\Utilities.pdb
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\Utilities\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\Utilities\obj\Release\Utilities.dll
+C:\Users\Matteo Ferrara\Desktop\ObjectTracking\Utilities\obj\Release\Utilities.pdb

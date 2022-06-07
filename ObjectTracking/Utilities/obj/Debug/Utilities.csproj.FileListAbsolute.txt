@@ -1,0 +1,12 @@
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\bin\Debug\Utilities.dll
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\bin\Debug\Utilities.pdb
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\Utilities\obj\Debug\Utilities.dll
+I:\CorsiUniversitari\VR\19_20\Esercitazioni\Emgu\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\bin\Debug\Utilities.dll
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\bin\Debug\Utilities.pdb
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\Utilities\obj\Debug\Utilities.dll
+C:\Users\Matteo Ferrara\Desktop\SOL_ObjectTracking\Utilities\obj\Debug\Utilities.pdb
