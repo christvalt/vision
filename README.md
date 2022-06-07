@@ -1,6 +1,3 @@
-#Computer vision
-
-
-
+Computer vision
 ****
-#some examples of computer vision projects done with colab
+some examples of computer vision projects done with colab
